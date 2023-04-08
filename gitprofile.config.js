@@ -25,7 +25,7 @@ const config = {
     telegram: '',
     website: 'https://wallpaper.listanime.eu.org',
     phone: '',
-    email: 'official.hataken999@gmail.com',
+    email: 'contact@hataken.eu.org',
   },
   resume: {
     fileUrl:
@@ -57,16 +57,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'SMAN 8 Kota Tangerang Selatan',
+      degree: 'Science - Finished',
+      from: '2018',
+      to: '2021',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Politeknik LP3I Jakarta',
+      degree: 'Associate - Unfinished',
+      from: '2021',
+      to: '2022',
     },
   ],
 
