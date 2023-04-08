@@ -58,13 +58,13 @@ const config = {
   education: [
     {
       institution: 'SMAN 8 Kota Tangerang Selatan',
-      degree: 'Science - Finished',
+      degree: 'Science Major - Finished',
       from: '2018',
       to: '2021',
     },
     {
       institution: 'Politeknik LP3I Jakarta',
-      degree: 'Associate - Unfinished',
+      degree: 'Associate Degree - Unfinished',
       from: '2021',
       to: '2022',
     },
