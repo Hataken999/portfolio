@@ -32,10 +32,14 @@ const config = {
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
+    'C',
+    'PHP',
+    'JAVA',
     'JavaScript',
     'Discord.js',
     'Bootstrap',
     'Node.js',
+    'MARKDOWN',
     'MySQL',
     'MongoDB',
     'Git',
@@ -83,7 +87,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'dark',
+    defaultTheme: 'night',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
